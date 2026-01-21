@@ -13,6 +13,10 @@
 -- META         {
 -- META           "id": "f5783003-286b-ac4e-4a71-e105b4874fda",
 -- META           "type": "Datawarehouse"
+-- META         },
+-- META         {
+-- META           "id": "52405d1e-ac71-4ab7-843e-f774e9ecf0de",
+-- META           "type": "Lakewarehouse"
 -- META         }
 -- META       ]
 -- META     }
