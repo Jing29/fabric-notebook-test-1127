@@ -34,3 +34,14 @@ select * from table2
 -- META   "language": "sql",
 -- META   "language_group": "sqldatawarehouse"
 -- META }
+
+-- CELL ********************
+
+select * from table2
+
+-- METADATA ********************
+
+-- META {
+-- META   "language": "sql",
+-- META   "language_group": "sqldatawarehouse"
+-- META }
