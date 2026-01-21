@@ -37,7 +37,7 @@ select * from table2
 
 -- CELL ********************
 
-select * from table212134545456
+select * from table212
 
 -- METADATA ********************
 
