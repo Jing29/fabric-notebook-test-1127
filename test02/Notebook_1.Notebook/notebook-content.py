@@ -8,12 +8,16 @@
 # META   },
 # META   "dependencies": {
 # META     "lakehouse": {
-# META       "default_lakehouse": "454e23fe-707c-4c15-8bd2-d753d530f536",
-# META       "default_lakehouse_name": "yilinlh2024",
-# META       "default_lakehouse_workspace_id": "d0af6ece-b6fe-4d05-a679-f85a757950a6",
+# META       "default_lakehouse": "eceb899c-a06c-a7f5-4302-273d59a59374",
+# META       "default_lakehouse_name": "lakehouse01",
+# META       "default_lakehouse_workspace_id": "00000000-0000-0000-0000-000000000000",
 # META       "known_lakehouses": [
 # META         {
 # META           "id": "454e23fe-707c-4c15-8bd2-d753d530f536"
+# META         },
+# META         {
+# META           "id": "eceb899c-a06c-a7f5-4302-273d59a59374",
+# META           "workspace_id": "00000000-0000-0000-0000-000000000000"
 # META         }
 # META       ]
 # META     }
@@ -26,6 +30,7 @@
 2 + 2
 3 + 3
 4 + 4
+5 + 5
 
 # METADATA ********************
 
