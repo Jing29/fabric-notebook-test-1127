@@ -26,6 +26,7 @@
 -- CELL ********************
 
 select * from table1
+select * from table2
 
 -- METADATA ********************
 
